@@ -1,0 +1,13 @@
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/diwali_app
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/typesense/Desktop/diwali_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
