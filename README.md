@@ -2,5 +2,5 @@
 
 Build command
 ```
-flutter build web --base-href=/diwali_app/build/web/
+flutter build web --base-href=/diwali_app/
 ```
